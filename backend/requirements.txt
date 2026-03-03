@@ -1,7 +1,7 @@
 flask
 flask-cors
 deepface
-opencv-python
+opencv-python-headless
 numpy
 qrcode
 Pillow
