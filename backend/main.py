@@ -452,9 +452,5 @@ def generate_qr():
 # ============================================
 
 if __name__ == "__main__":
-    print("\n" + "=" * 50)
-    print("  IET K. K. WAGH EXPO")
-    print("  Photo Recognition System")
-    print("  Server running at http://localhost:5000")
-    print("=" * 50 + "\n")
-    app.run(host="0.0.0.0", port=5000, debug=False)
+    port = int(os.environ.get("PORT", 10000))
+    app.run(host="0.0.0.0", port=port)
