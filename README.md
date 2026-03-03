@@ -5,7 +5,7 @@ This project uses Deep Learning and Computer Vision to detect and recognize face
 
 ---
 
-## 📌 Project Description
+## Project Description
 
 The IET KK Wagh Expo Photo Recognition System is designed to simplify event photo management by automatically detecting and recognizing faces in images.
 
@@ -15,18 +15,18 @@ This system combines Artificial Intelligence, Machine Learning, and Web Developm
 
 ---
 
-## 🚀 Key Features
+## Key Features
 
-- ✅ Face Detection using OpenCV  
-- ✅ Face Recognition using DeepFace  
-- ✅ Image Upload Functionality  
-- ✅ Organized Photo Storage System  
-- ✅ Simple and User-Friendly Web Interface  
-- ✅ AI-Based Photo Matching  
+- Face Detection using OpenCV  
+- Face Recognition using DeepFace  
+- Image Upload Functionality  
+- Organized Photo Storage System  
+- Simple and User-Friendly Web Interface  
+- AI-Based Photo Matching  
 
 ---
 
-## 🛠 Tech Stack
+##  Tech Stack
 
 - **Python**
 - **OpenCV**
@@ -38,7 +38,7 @@ This system combines Artificial Intelligence, Machine Learning, and Web Developm
 
 ---
 
-## 📂 Project Structure
+## Project Structure
 
 ```
 iet-expo-photo-recognition-system/
@@ -61,22 +61,22 @@ iet-expo-photo-recognition-system/
 
 ---
 
-## ▶ How to Run the Project
+## How to Run the Project
 
-### 1️⃣ Clone the Repository
+### 1️) Clone the Repository
 
 ```bash
 git clone https://github.com/malisaurabh01/iet-expo-photo-recognition-system.git
 cd iet-expo-photo-recognition-system
 ```
 
-### 2️⃣ Create Virtual Environment
+### 2️) Create Virtual Environment
 
 ```bash
 python -m venv venv
 ```
 
-### 3️⃣ Activate Virtual Environment
+### 3️) Activate Virtual Environment
 
 For Windows:
 ```bash
@@ -88,13 +88,13 @@ For Mac/Linux:
 source venv/bin/activate
 ```
 
-### 4️⃣ Install Dependencies
+### 4️) Install Dependencies
 
 ```bash
 pip install -r requirements.txt
 ```
 
-### 5️⃣ Run the Backend Server
+### 5️) Run the Backend Server
 
 ```bash
 python app.py
@@ -108,7 +108,7 @@ http://127.0.0.1:5000
 
 ---
 
-## 🧠 How It Works
+## How It Works
 
 1. User uploads an image.
 2. OpenCV detects faces in the image.
@@ -118,24 +118,24 @@ http://127.0.0.1:5000
 
 ---
 
-## 🎯 Future Improvements
+## Future Improvements
 
-- 🔹 Improve recognition accuracy with optimized models  
-- 🔹 Add database integration (MySQL / MongoDB)  
-- 🔹 Deploy system online (Render / Railway / AWS)  
-- 🔹 Add Admin Analytics Dashboard  
-- 🔹 Implement Real-Time Camera Recognition  
+- Improve recognition accuracy with optimized models  
+- Add database integration (MySQL / MongoDB)  
+- Deploy system online (Render / Railway / AWS)  
+- Add Admin Analytics Dashboard  
+- Implement Real-Time Camera Recognition  
 
 ---
 
-## 🎓 Developed For
+## Developed For
 
 **IET KK Wagh Engineering Expo**  
 AI-Based Innovation Project  
 
 ---
 
-## 👨‍💻 Developer
+## Developer
 
 **Saurabh Mali**  
 Electrical Engineering Student  
